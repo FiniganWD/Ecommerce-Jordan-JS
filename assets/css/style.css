@@ -406,7 +406,7 @@ ul li {
 
 
 @media (min-width: 768px) {
-    .carousel-item {height: 95vh;}
+    .carousel-item {height: 100vh;}
     .carousel-item img{
         height: 75%;
         margin-top: 75px;
@@ -432,10 +432,6 @@ ul li {
         padding-top: 30px;
         padding-bottom: 30px;
         height: auto;
-    }
-    .hero-title h1, p{
-        width: 300px;
-        margin: 0 auto;
     }
 
 }
